@@ -1,0 +1,67 @@
+[
+  {
+    "title": "ZindagiBacha (StartUP)",
+    "description": "A healthcare startup focused on providing affordable and accessible medical services to underserved communities through a telemedicine platform. ",
+    "img": "/img/zindgaibacha.png",
+    "liveLink": "https://zindgaibacha.vercel.app/",
+    "github": "https://github.com/AbdullahRustam99/ZindgiBacha",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Framer Motion",
+      "Python",
+      "PostgreSQL",
+      "FastAPI",
+      "OpenAI-AgetSDK",
+      "HuggingFace"
+    ]
+  },
+  {
+    "title": "AI-Powered Todo App",
+    "description": "A full-stack todo application with AI-powered features for task prioritization and completion suggestions.",
+    "img": "/img/todo.png",
+    "liveLink": "https://todo-app-lac-ten-12.vercel.app/",
+    "github": "https://github.com/AbdullahRustam99/TODO_APP",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "Framer Motion",
+      "Python",
+      "PostgreSQL",
+      "FastAPI",
+      "OpenAI-AgetSDK",
+      "HuggingFace",
+      "MCP Server"
+    ]
+  },
+  {
+    "title": "RAG-Powered Chatbot",
+    "description": "A retrieval-augmented generation chatbot that answers queries based on custom knowledge bases with citation support.",
+    "img": "/img/Ai_Rag_chatbot.png",
+    "liveLink": "https://ai-humanoid-robotics-textbook.vercel.app/",
+    "github": "https://github.com/AbdullahRustam99/AI-HUMANOID-ROBOTICS-TEXTBOOK",
+    "skills": [
+      "Docusaurus",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "HuggingFace"
+    ]
+  },
+  {
+    "title": "NIKE E-commerce Store ",
+    "description": "A modern e-commerce platform built with Next.js, featuring a stateless backend powered by Sanity CMS for dynamic content management. Implements a scalable headless architecture with product catalog, shopping cart, and checkout integration. Demonstrates proficiency in decoupled frontend-backend architecture and headless CMS integration.",
+    "img": "/img/nike-store.png",
+    "liveLink": "https://example.com/dashboard",
+    "github": "https://github.com/abdullah/dashboard",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Sanity CMS",
+      "Node.js"
+    ]
+  }
+]

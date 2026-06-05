@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import { Bot, Monitor, Server, Cloud } from "lucide-react";
+import { Bot, Monitor, Server } from "lucide-react";
 
 const services = [
   {

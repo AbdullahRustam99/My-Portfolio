@@ -21,12 +21,7 @@ const services = [
       "Scalable server-side applications, APIs, and database architectures using Node.js, Python, and FastAPI. I design robust systems that handle complex business logic.",
     icon: Server,
   },
-  {
-    title: "DevOps & Cloud",
-    description:
-      " Docker containerization, cloud deployments on AWS and Vercel, and infrastructure automation. I ensure smooth, reliable delivery from development to production.",
-    icon: Cloud,
-  },
+  
 ];
 
 const container = {
@@ -55,7 +50,7 @@ export default function Services() {
         initial="hidden"
         whileInView="show"
         viewport={{ once: true }}
-        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8"
+        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
       >
         {services.map((service) => (
           <motion.div

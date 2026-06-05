@@ -53,9 +53,23 @@
   {
     "title": "NIKE E-commerce Store ",
     "description": "A modern e-commerce platform built with Next.js, featuring a stateless backend powered by Sanity CMS for dynamic content management. Implements a scalable headless architecture with product catalog, shopping cart, and checkout integration. Demonstrates proficiency in decoupled frontend-backend architecture and headless CMS integration.",
-    "img": "/img/nike-store.png",
-    "liveLink": "https://example.com/dashboard",
-    "github": "https://github.com/abdullah/dashboard",
+    "img": "/img/nike.png",
+    "liveLink": "https://nike-e-commerce.vercel.app/",
+    "github": "https://github.com/AbdullahRustam99/Every-Thing-e-commerce/tree/main/e-commerce",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Sanity CMS",
+      "Node.js"
+    ]
+  },
+  {
+    "title": "NIKE Admin Dashboard",
+    "description": "A modern e-commerce platform built with Next.js, featuring a stateless backend powered by Sanity CMS for dynamic content management. Implements a scalable headless architecture with product catalog, shopping cart, and checkout integration. Demonstrates proficiency in decoupled frontend-backend architecture and headless CMS integration.",
+    "img": "/img/nikedashboard.png",
+    "liveLink": "https://nike-e-commerce-admin.vercel.app/",
+    "github": "https://github.com/AbdullahRustam99/Every-Thing-e-commerce/tree/main/every-thing-admin",
     "skills": [
       "React",
       "Next.js",
